@@ -1,0 +1,3 @@
+# Keep the bytes used by the sample and boundary provenance manifests.
+weibo_sample_4pct.csv -text
+shanghai_boundary_2025.geojson -text
